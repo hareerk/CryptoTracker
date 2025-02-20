@@ -1,6 +1,6 @@
 # Crypto Tracker
 
-A cryptocurrency tracking application built with .NET 7 backend and React frontend. This application uses the CoinGecko API to fetch real-time cryptocurrency data.
+A cryptocurrency tracking application built with .NET 8 backend and React frontend. This application uses the CoinGecko API to fetch real-time cryptocurrency data.
 
 ## Features
 
